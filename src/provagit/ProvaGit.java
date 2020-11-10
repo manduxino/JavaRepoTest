@@ -19,7 +19,7 @@ public class ProvaGit {
         
         while(true){
         
-            System.out.println("Quanto carichi?  "+i+" kg pota"); 
+            System.out.println("Quanti motorini hai scavallato? "+i); 
             i++;
         }
     }
